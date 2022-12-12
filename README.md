@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @opee2005
 - 👀 I’m interested in Cloud
-- 🌱 I’m currently learning google cloud computing ...
+- 🌱 I’m currently learning Networking in Google Cloud: Hybrid Connectivity and Network Management
 - 💞️ I’m looking to collaborate on deployment and monitoring of applications in the cloud
 - 📫 How to reach me on honlawal@gmail.com, (+234)8087655247.
 
